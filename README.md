@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jackey
+- 👀 I’m interested in mathmatics, psychology.
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me mjjackey1208@gmail.com
