@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jackey, a medical device software engineer. Previously, I contributed to developing the world's first active capsule endoscope successfully.
+- 👋 Hi, I’m Jackey, a medical device software engineer. Previously, I successfully contributed to developing the world's first magnetic‑controlled medical capsule robotic endoscope system.
 - 👀 I’m highly interested in mathematics and psychology. For coding, I mainly use C++ and Python. I'm also interested in  machine learning/deep learning systems(AI Systems) and efficient deep learning. 
-- 🌱 I’m currently learning efficient deep learning and how to start developing an open-source ML or DL library. 
-- 💞️ I’m looking to collaborate on developing an open-source ML or DL library.
+- 🌱 I’m currently learning efficient deep learning and how to start contributing to an open-source ML or DL library. 
+- 💞️ I’m looking to collaborate on contributing to an open-source ML or DL library.
 - 📫 How to reach me: mjjackey1208@gmail.com
