@@ -9,4 +9,4 @@
   discipline. For coding, I mainly use C++ and Python. I'm also interested in **machine learning/deep learning systems(AI Systems) and efficient deep learning**. 
 - 🌱 I’m currently learning machine learning/deep learning systems(AI Systems) and how to start contributing to an open-source ML or DL library/Framework. 
 - 💞️ I’m looking to collaborate on contributing to an open-source ML or DL library/Framework.
-- 📫 How to reach me: mjjackey1208@gmail.com
+- 📫 How to reach me: mjjackey1208@gmail.com or mjqwwz@hotmail.com
